@@ -1,0 +1,24 @@
+{
+ "name":"parteien-oesterreich",
+ "title":"Liste der Parteien in Oesterreich",
+ "description":"Liste der Parteien in Oesterreich, die vom BMI veroeffentlicht werden: http://www.bmi.gv.at/cms/BMI_Service/parteienverz/start.aspx .  Scraped als CSV. Stand vom 1.10.2013. Das Hinterlegungsdatum entspricht dem Datum der Hinterlegung der ersten Satzungen - de facto der Parteigruendung",
+ "sources": [{
+  "name":"Bundesministerium fuer Inneres Oesterreich",
+  "web":"http://www.bmi.gv.at/cms/BMI_Service/parteienverz/start.aspx"
+ }],
+ "resources":[{
+    "path":"data/parties.csv",
+    "encoding":"utf-8",
+    "schema": {
+      "fields": [
+        {"id":"Nr.",
+          "type":"number"},
+        {"id":"Bezeichung",
+         "type":"string"},
+        {"id":"Hinterlegung",
+         "type":"date",
+         "format":"dd.mm.yyyy"}
+        ]
+      }
+  }]
+}

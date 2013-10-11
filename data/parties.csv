@@ -1,0 +1,974 @@
+Nr.,Bezeichnung,Hinterlegung
+1,"""1. Demokratische Partei Österreichs""",13.08.1993
+2,"""99-eins"", Kurzbezeichnung ""991""",08.05.2013
+3,"""A.L.R. Partei für authentische Lebensräume""",02.05.2000
+4,"""Abendländisch-National-Europäische Union (ANEU)""",31.05.1995
+5,"""AKTION CHRISTLICHES EUROPA (ACE)""",06.04.1998
+6,"""Aktion für humanistische Medizin"", Abkürzung ""AFM""",09.11.1993
+7,"""Aktion Neue Rechte - ANR""",24.09.1975
+8,"""AKTION UMWELT SPIEGEL""",25.05.1992
+9,"""Aktionistische Partei Ostösterreichs"" (A.P.O.)",20.12.1983
+10,"""AktionsGemeinschaft Kärntner Studenten"", abgekürzt ""AG""",13.09.1995
+11,"""AL/VGÖ Wahlgemeinschaft Vorarlberg"", Abkürzung ""GRÜNE""",16.09.1988
+12,"""ALLGEMEINE PARTEI ÖSTERREICHS"", kurz ""APÖ""",08.02.1983
+13,"""Allianz für Österreichs Zukunft""",27.04.1990
+14,"""Alpine Pogo Partei Österreich"", Kurzbezeichnung ""APPÖ""",30.06.2006
+15,"""Alternative Basisliste"" (ALB)",19.06.1986
+16,"""ALTERNATIVE BEWEGUNG ÖSTERREICHS (ABÖ)""",19.11.1982
+17,"""Alternative für Österreich - neu (AfÖn)"", Kurzbezeichnung ""AfÖn""",16.09.2013
+18,"""Alternative für Österreich (AfÖ)""",14.04.2013
+19,"""ALTERNATIVE LISTE (AL)""",19.11.1982
+20,"""ALTERNATIVE LISTE BURGENLAND - FÜR DEMOKRATIE UND UMWELTSCHUTZ"" (AL - BGLD)",27.01.1983
+21,"""Alternative Liste Graz""",15.02.1988
+22,"""Alternative Liste Heidenreichstein"" (ALH)",28.04.1983
+23,"""ALTERNATIVE LISTE KÄRNTEN FÜR DEMOKRATIE UND UMWELTSCHUTZ""",17.01.1983
+24,"""Alternative Liste Linz (ALL)""",09.08.1984
+25,"""ALTERNATIVE LISTE NIEDERÖSTERREICH - FÜR DEMOKRATIE UND UMWELTSCHUTZ"" (AL-NÖ)",21.10.1982
+26,"""Alternative Liste Oberösterreich"" (ALOÖ)",07.12.1982
+27,"""ALTERNATIVE LISTE ÖSTERREICH - DIE GRÜNEN ALTERNATIVEN (ALÖ)""",19.11.1982
+28,"""ALTERNATIVE LISTE ÖSTERREICH - FÜR DEMOKRATIE UND UMWELTSCHUTZ (ALÖ)""",19.11.1982
+29,"""ALTERNATIVE LISTE ÖSTERREICH (ALÖ)""",10.11.1982
+30,"""Alternative Liste Österreichs - ALÖ""",27.09.1982
+31,"""ALTERNATIVE LISTE ÖSTERREICHS"", Kurzbezeichnung ""ALÖ""",08.11.1982
+32,"""Alternative Liste Salzburg - für Demokratie und Umweltschutz"" ALS",19.01.1983
+33,"""ALTERNATIVE LISTE SALZBURG""",07.04.1982
+34,"""ALTERNATIVE LISTE STEIERMARK""",27.10.1982
+35,"""Alternative Liste Tirol""",21.01.1983
+36,"""Alternative Liste Vorarlberg (ALV)""",09.12.1987
+37,"""Alternative Liste Vorarlberg (ALV)""",22.12.1987
+38,"""Alternative Liste Wels (ALWE)""",21.11.1983
+39,"""ALTERNATIVE LISTE WIEN - Für Demokratie und Umweltschutz"", Kurzform ""AL-Wien""",03.02.1983
+40,"""ALTERNATIVE LISTE WIEN"" (ALW)",28.06.1982
+41,"""alternative liste wiener neustadt - für demokratie und umweltschutz""",10.02.1983
+42,"""Alternative Sozialisten - Partei des sozialen und gesellschaftlichen Fortschritts""",02.03.1990
+43,"""Alternatives Forum Pottendorf (AFP)""",20.07.1994
+44,"""Alternativ-Grüne Initiative Luftenberg"", Kurzform ""AGIL""",28.09.1983
+45,"""AMERIKANISCHE PARTEI"" in Österreich, Kurzbezeichnung ""APÖ""",24.06.1980
+46,"""Anarchistische Aktionsgruppen"" (A.A.G.)",14.10.1983
+47,"""ANARCHISTISCHE PARTEI ÖSTERREICHS"" (APÖ)",14.06.1982
+48,"""Anti Aids Initiative (aAI)""",14.04.1987
+49,"""Anti- Korruptions- Partei"", kurz ""AKP""",03.11.2010
+50,"""ANTI-EG-LISTE Österreich muß Österreich bleiben"", Abkürzung ""ANTI""",04.03.1994
+51,"""Anti-EG-Partei""",12.11.1992
+52,"""Antiimperialistische Koordination (AIK)""",28.09.2004
+53,"""ARBEIT. UMWELT. SAUBERKEIT."" (AUS)",18.08.1982
+54,"""Arbeiter und Meister Partei Österreichs (AMPÖ)""",29.02.1980
+55,"""Arbeiter.innen.kampf (ARKA)""",30.09.2011
+56,"""ARBEITSGEMEINSCHAFT BESSER LEBEN Partei zur Verbreitung von humanökologischem Wissen""",03.03.1982
+57,"""Arbeitsgemeinschaft bewußt gesund Partei für Gesundheit und Heilung""",29.01.1999
+58,"""ARBEITSGEMEINSCHAFT EINE BESSERE WELT ÖSTERREICH"" -EBWÖ-",07.09.2005
+59,"""ARBEITSGEMEINSCHAFT ERHALTENSWERTER GEBÄUDE"" -ARGE ERGE-",30.06.2004
+60,"""Arbeitsgemeinschaft für demokratische Politik"", abgekürzt ""AFP""",22.05.1978
+61,"""Arbeitsgemeinschaft Ja zur Umwelt, Nein zur Atomenergie""",19.02.1991
+62,"""ARBEITSGEMEINSCHAFT MENSCH IN DER UMWELT"" -MIDU-, Kurzbezeichnung: MIDU",30.04.2010
+63,"""Arbeitsgemeinschaft Neue Lernkultur"", - Bewegung bildungsbewußter Bürger -, kurz ""Arge Lernkultur""",29.05.1995
+64,"""ARBEITSGEMEINSCHAFT WORLDWIDE TECHNOLOGY EXCHANGE"" -WTX-, Kurzbezeichnung ""WTX""",20.02.2012
+65,"""Arbeitsgemeinschaft zur Erhaltung schutzwürdiger Altbauten und Förderung der Altstadterhaltung"", Kurzbezeichnung  ""AG ",21.08.1989
+66,"""Arbeitsgemeinschaft zur Förderung der Sanierung von Altbauten zur Erhöhung der Wohnqualität und Neuschaffung von ",21.08.1989
+67,"""Arbeitsgruppe Marxismus"" (AGM)",16.11.1994
+68,"""ASO AUTOFAHRER SCHUTZ OFFENSIV""",11.03.2003
+69,"""ASVG-Aktionsgemeinschaft der Pensionisten Österreichs""",28.08.1989
+70,"""Ausländer-Halt-Bewegung""",09.04.1987
+71,"""Austria Allianz""",14.05.2013
+72,"""Autonom revolutionär subversiv chaotische Hackler Partei"" (A.R.S.C.H. Partei)",23.07.1986
+73,"""AUTONOME GRUPPE KOMMUNISTISCHE POLITIK (KOMPOL)""",29.04.1981
+74,"""bad ischl SPEZIAL"" (BIZ)",28.06.1991
+75,"""BADEN KREATIV""",06.12.1993
+76,"""BASIS GRAZ""",12.01.2005
+77,"""Basisdemokratische Liste (BDL)""",24.12.1986
+78,"""Basisinitiative Pharmazie"", Abkürzung ""BIP""",25.03.1991
+79,"""Befreiung der Produktivkräfte""",29.12.1980
+80,"""Bewegung 5. November""",10.10.1980
+81,"""Bewegung für soziale Befreiung""",11.05.2000
+82,"""Bewegung Zukunft Vorarlberg (BZV)""",14.04.2005
+83,"""BIO"" Überparteiliche Bürgerinitiativen Organisation",21.06.1994
+84,"""BLA - Bürgerliste Lambach""",04.02.1991
+85,"""BRAVO ÖSTERREICH""",30.10.1983
+86,"""Bruck 2001 (Grün-Soziale Stadtpartei)""",18.01.1990
+87,"""Bund freier Patienten (BFP) Bürgerinitiative für freie Heilkunde, freie Therapiewahl ua Patientengrundrechte"", ",11.10.1995
+88,"""BUND GEGEN ANPASSUNG""",16.05.1988
+89,"""BUND UNABHÄNGIGER STUDENTEN (BUS)""",12.05.1982
+90,"""BÜNDNIS 2000""",20.10.1995
+91,"""Bündnis '93"", Abkürzung ""B 93""",13.11.1992
+92,"""Bündnis 94"", Abkürzung ""B 94""",13.11.1992
+93,"""Bündnis 95"", Abkürzung ""B 95""",13.11.1992
+94,"""Bündnis '96"", Abkürzung ""B 96""",13.11.1992
+95,"""Bündnis für die Zukunft Österreichs (BZÖ)""",04.04.2005
+96,"""BÜNDNIS NEUTRALES FREIES ÖSTERREICH"", Kurzbezeichnung ""NFÖ""",17.03.2003
+97,"""Bündnis radikaler Organisationen - (B.Ü.R.O.)""",26.11.1992
+98,"""Bündnis Zukunft Österreich - Tirol (BZÖ-T)""",21.07.2005
+99,"""Bündnis Zukunft Österreich - Vorarlberg (BZÖ - Vorarlberg)""",25.07.2005
+100,"""Bündnis Zukunft Österreich (BZÖ)""",04.04.2005
+101,"""Bündnis Zukunft Österreich Landesgruppe Wien - Die Stadtpartei (Kurzbezeichnung: BZÖ Wien)""",07.04.2005
+102,"""Bündnis Zukunft Österreich Salzburg (BZÖ Salzburg)""",04.05.2005
+103,"""bunte hilfe""",10.02.1983
+104,"""BÜRGERAKTION '90 für mehr Gerechtigkeit"", Kurzbezeichnung ""B90""",19.03.1990
+105,"""Bürgeranwaltschaft""",04.06.1997
+106,"""Bürgerbewegung Österreich stoppt die Politiker""",28.07.2008
+107,"""Bürgerbewegung Österreich""",28.07.2008
+108,"""Bürgerbewegung Rettet Österreich""",28.07.2008
+109,"""BÜRGERFORUM '90 für mehr Gerechtigkeit"", Kurzbezeichnung ""F90""",19.03.1990
+110,"""Bürgerforum Österreich Liste Fritz Dinkhauser""",21.08.2008
+111,"""Bürgerforum Sollenau""",13.12.1989
+112,"""Bürgerforum Tirol - Liste Fritz""",22.04.2008
+113,"""Bürgerforum""",07.03.1991
+114,"""Bürgerinitiative Demokratisch Leben (B.D.L.)""",22.03.1991
+115,"""Bürgerinitiative gegen den Verkauf Österreichs an die EG"" Partei zur Erhaltung der Selbständigkeit Österreichs",26.01.1993
+116,"""Bürgerinitiative 'Nein zu EWR & EG' Partei zur Verbreitung von kritischem EWR und EG Informationsmaterial""",01.10.1993
+117,"""Bürgerinitiative Österreich""",28.07.2008
+118,"""Bürgerinitiative Parlament""",05.12.1985
+119,"""BÜRGERINITIATIVE ÜBERLEBEN""",18.01.1983
+120,"""Bürgerinitiativen Österreichs""",28.07.2008
+121,"""BÜRGERLICHE GRÜNE ÖSTERREICHS - LANDESVERBAND NIEDERÖSTERREICH"", Kurzbezeichnung ""BGÖ""",05.09.1983
+122,"""BÜRGERLICHE GRÜNE ÖSTERREICHS (BGÖ)""",22.11.1993
+123,"""Bürgerliche Grüne Österreichs (BGÖ), Landesverband Wien"", Kurzbezeichnung ""BGÖ""",18.08.1992
+124,"""BÜRGERLISTE ENZESFELD-LINDABRUNN""",23.04.1990
+125,"""Bürgerliste Mensch & Natur""",28.09.1994
+126,"""Bürgerliste Österreich""",28.07.2008
+127,"""Bürgerliste Österreichs"", Abkürzung ""BLÖ""",18.06.1986
+128,"""BÜRGERLISTE PETRONELL""",03.04.1989
+129,"""BÜRGERLISTE SCHREINER""",30.12.1994
+130,"""Bürgernahe Partei Österreich - Landesgruppe Vorarlberg""",27.11.2003
+131,"""BÜRGER-PARLAMENTS-BEWEGUNG""",19.03.1985
+132,"""Bürgerpartei Österreichs"" (BPÖ)",29.07.1998
+133,"""BÜRGERPARTEI"" (BP)",08.07.1987
+134,"""Bürgerprotest & Nichtwähler"" (BPN)",08.07.1987
+135,"""Bürger-Rechts-Bewegung""",06.04.1989
+136,"""BÜRGERSCHUTZ Österreich (BSÖ)""",14.03.1994
+137,"""BZÖ - Bündnis Zukunft Niederösterreich""",22.06.2007
+138,"""BZÖ - Bündnis Zukunft Oberösterreich""",20.07.2012
+139,"""BZÖ - Bündnis Zukunft Steiermark""",30.06.2005
+140,"""BZÖ Kärnten, Kurzbezeichnung ""BZÖ""",12.03.2010
+141,"""casework alternative liste""",25.09.1987
+142,"""CASEWORK""",11.03.1987
+143,"""Christdemokraten Österreichs"" -  kurz: ""CDÖ""",26.08.2005
+144,"""Christdemokratische Arbeitnehmer-Partei"" ",12.12.1997
+145,"""CHRISTDEMOKRATISCHE PARTEI"", kurz ""CDP""",04.05.1990
+146,"""Christdemokratische Union (CDU)""",12.12.1997
+147,"""Christdemokratische Volksabstimmungspartei"", kurz ""CDVP""",07.01.2010
+148,"""Christdemokratische Volkspartei""",12.12.1997
+149,"""Christen-Allianz""",22.01.2010
+150,"""Christlich Europäische Union (CEU)""",04.12.2003
+151,"""Christlich soziale Allianz (CSA)""",28.04.1999
+152,"""Christlich Soziale Allianz"", kurz ""CSA""",16.04.1999
+153,"""Christlich Soziale Partei""",01.02.1994
+154,"""Christlich-Demokratische Union Österreichs"", Kurzbezeichnung ""CDU-Ö""",02.03.1999
+155,"""CHRISTLICHE - WÄHLER - GEMEINSCHAFT"" (CWG)",01.06.1990
+156,"""Christliche Allianz (CA)""",25.09.1991
+157,"""Christliche Arbeitnehmer-Partei""",12.12.1997
+158,"""Christliche Partei - Steiermark""",13.01.2012
+159,"""Christliche Partei - Tirol""",30.01.2012
+160,"""Christliche Partei Österreichs - Salzburg"" (CPÖ - Salzburg)",21.10.2010
+161,"""Christliche Partei Österreichs""",09.12.2005
+162,"""Christliche Union""",12.12.1997
+163,"""Christliche Volkspartei""",12.12.1997
+164,"""CHRISTLICHES FORUM""",29.03.1994
+165,"""Christlich-Soziale Arbeitnehmer-Partei""",12.12.1997
+166,"""Christlich-Soziale Arbeitsgemeinschaft"" (CSA)",08.02.1978
+167,"""christlich-soziale Mitte Österreichs"", kurz ""CSMÖ""",08.08.1983
+168,"""Christlich-soziale Union (CSU)""",12.12.1997
+169,"""Christlich-Soziale Union Österreichs"", Kurzbezeichnung ""CSUÖ""",22.10.1998
+170,"""Christlich-Soziale Union"". Kurzbezeichnung ""CSU""",12.02.2001
+171,"""Christlich-Soziale Volkspartei""",12.12.1997
+172,"""Club Soziale Aktion"", Kurzbezeichnung ""CSA""",05.02.1987
+173,"""Congolesische Volkspartei in Österreich""",28.09.1990
+174,"""Context - Initiative für freie Studien und brauchbare Information""",13.01.1992
+175,"""Dachverband der Ewiggestrigen""",14.10.1983
+176,"""DAS GRÜNE FORUM - DIE ÖSTERREICHISCHEN GRÜNEN (Wahlgemeinschaft von Atomgegner-, Natur- und ",14.01.1982
+177,"""DAS GRÜNE FORUM - WAHLGEMEINSCHAFT ÖSTERREICHISCHER GRÜNER"" (Wahlplattform von Atomgegner-, ",25.06.1981
+178,"""DAS VOLK REGIERT SELBST"", kurz ""DVRS""",27.02.2006
+179,"""DEMIKRATISCHE PARTEI VORARLBERGS"", Kurzbezeichnung ""DPV""",11.02.1983
+180,"""DEMO-Austria (Kurzname DEMO)""",08.08.2005
+181,"""DEMOKRATEN (D)""",17.03.1992
+182,"""Demokratie 92""",17.02.1993
+183,"""Demokratie 99""",14.09.1998
+184,"""Demokratie Bewegung Österreich"", kurz ""DBÖ""",18.07.2012
+185,"""Demokratisch Frei Konstruktiv"", kurz ""DFK""",28.10.2003
+186,"""Demokratische Arbeits-Gemeinschaft"" - DAG",30.10.1980
+187,"""Demokratische liberal - nationale Aktivgruppe""",09.10.1987
+188,"""Demokratische Liberale Partei Österreich - Liberaler Club (D.L.P.)""",13.01.1993
+189,"""Demokratische Partei Österreich"", kurz ""DPÖ""",10.11.1983
+190,"""DEMOKRATISCHE REFORM-PARTEI ÖSTERREICHS""",26.11.1987
+191,"""Demokratische Republikaner"" (Demo-Rep)",17.04.1990
+192,"""Demokratische Soziale Union"", Kurzform ""DSU""",02.11.2010
+193,"""Demokratische Union""",17.07.1997
+194,"""Demokratische-Kärntner-Liste""",01.12.1997
+195,"""demontage - Initiative zur Förderung des politikwissenschaftlichen Gegendiskurses""",14.03.1994
+196,"""Denk Um"", Nebenbezeichnung ""Wirtschaftsliberale Sozialpartei"", Kurzbezeichnung ""DU""",05.05.2010
+197,"""Der Norden"" - (Mühlviertel) Weinviertel (Waldviertel), Abkürzung ""Der Norden"" (M)W(W)",24.11.1988
+198,"""Der Perger"" - Club für aktive Freizeitgestaltung",11.07.1991
+199,"""DER WANDEL"", Kurzbezeichnung ""WANDL""",07.09.2012
+200,"""DEUTSCH-VÖLKISCHE PARTEI""",15.11.1983
+201,"""Die aktive liberale Partei Österreichs"", Abkürzung ""A.L.Ö.""",05.07.1995
+202,"""Die Alternativen Österreichs (AÖ)""",19.11.1982
+203,"""Die Anderen - Libertäres Forum"", Kurzbezeichnung ""Die Anderen"", Abkürzung ""DALF""",23.07.1992
+204,"""Die Anderen - Libertäres Forum/Bezirksgruppe Alsergrund"", Abkürzung ""DALF""",25.08.1992
+205,"""Die Anderen - Libertäres Forum/Bezirksgruppe Hernals"", Abkürzung ""DALF""",18.09.1992
+206,"""Die Anderen - Libertäres Forum/Bezirksgruppe Mariahilf"", Abkürzung ""DALF""",18.09.1992
+207,"""Die Anderen - Libertäres Forum/Bezirksgruppe Neubau"", Abkürzung ""DALF""",25.08.1992
+208,"""Die Anderen - Libertäres Forum/Bezirksgruppe Ottakring"", Abkürzung ""DALF""",18.09.1992
+209,"""Die Anderen - Libertäres Forum/Bezirksgruppe Wieden"", Abkürzung ""DALF""",25.08.1992
+210,"""Die Anderen - Libertäres Forum/Regionalgruppe Wien"", Kurzbezeichnung ""Die Anderen"", Abkürzung ""DALF"" ",25.08.1992
+211,"""DIE BESTE PARTEI - Die Partei für Frieden, Freiheit, Fröhlichkeit""",30.03.1992
+212,"""Die Bewegung""",10.12.1991
+213,"""Die Bewegung""",04.10.2002
+214,"""Die Bürgerliche Partei Österreichs - BPÖ""",20.08.1999
+215,"""Die Bürgerlich-Liberalen""",09.09.2009
+216,"""Die Christen""",06.11.2009
+217,"""Die ChristenPartei"" (DCP) Oberösterreich",20.01.2010
+218,"""Die Ehrenamtlichen""",31.03.2011
+219,"""DIE EMSIGEN""",01.06.1994
+220,"""Die Freiheitlichen in Kärnten""",15.04.1977
+221,"""Die Freisinnigen Österreichs (FÖ)""",30.06.1986
+222,"""Die Grauen Österreichs""",02.08.1989
+223,"""Die Grauen Österreichs/Partei der Senioren""",31.07.1989
+224,"""Die Grauen Panther Österreichs""",28.08.1989
+225,"""DIE GRÜNALTERNATIVEN - BURGENLAND (GAL-Bgld)""",19.09.1986
+226,"""Die Grünalternativen - Demokratische Liste"", kurz ""GAL""",19.09.1986
+227,"""DIE GRÜNALTERNATIVEN - KÄRNTEN (GAL-Ktn)""",19.09.1986
+228,"""Die Grünalternativen - Niederösterreich"", kurz ""GAL-NÖ""",30.06.1986
+229,"""DIE GRÜNALTERNATIVEN - OBERÖSTERREICH (GAL-OÖ)""",19.09.1986
+230,"""DIE GRÜNALTERNATIVEN - SALZBURG (GAL-Slzbg)""",19.09.1986
+231,"""DIE GRÜNALTERNATIVEN - STEIERMARK (GAL-Stmk)""",19.09.1986
+232,"""DIE GRÜNALTERNATIVEN - TIROL (GAL-Tir)""",19.09.1986
+233,"""DIE GRÜNALTERNATIVEN - VORARLBERG (GAL-Vlbg)""",19.09.1986
+234,"""DIE GRÜNALTERNATIVEN - WIEN (GAL-Wien)""",19.09.1986
+235,"""Die Grüne Alternative (Grüne) Liste Freda Meissner-Blau (AL, BIP, VGÖ, GAL, GRAS, KEL, Unabhängige …)""",22.09.1986
+236,"""Die Grüne Alternative (Grüne) Liste Freda Meissner-Blau (AL, BIP, VGÖ, GAL, GRAS, KEL, VÖGA, Unabhängige …)""",22.09.1986
+237,"""Die Grüne Alternative Bezirk Neunkirchen"", kurz ""Grüne-Neunkirchen""",23.07.1987
+238,"""DIE GRÜNE ALTERNATIVE GUNTRAMSDORF (GRÜNE)""",02.11.1989
+239,"""Die Grüne Alternative Hernals"", Kurzbezeichnung ""GRÜNE""",24.11.1986
+240,"""Die Grüne Alternative Krems"" (GRÜNE)",15.06.1987
+241,"""DIE GRÜNE BEWEGUNG"" (B)",28.06.1982
+242,"""DIE GRÜNE FRONT"" - Wählerpartei der Umweltschützer & Unabhängigen - W.d.U. -",11.03.1981
+243,"""Die Grünen - Alternative Liste Graz (Grüne)""",05.03.1982
+244,"""DIE GRÜNEN - DIE GRÜNE ALTERNATIVE - LINZ"" (GRÜNE)",02.06.2005
+245,"""DIE GRÜNEN - DIE GRÜNE ALTERNATIVE - OBERÖSTERREICH"" (GRÜNE)",05.09.1989
+246,"""DIE GRÜNEN - DIE GRÜNE ALTERNATIVE - WELS"" (GRÜNE)",05.11.1985
+247,"""DIE GRÜNEN - DIE GRÜNE ALTERNATIVE (Grüne)""",05.06.1992
+248,"""DIE GRÜNEN - DIE GRÜNE ALTERNATIVE (GRÜNE)""",22.09.1986
+249,"""DIE GRÜNEN - Die Grüne Alternative Burgenland - zeleni - zöldek - selene (GRÜNE)""",27.04.1987
+250,"""Die Grünen - Die Grüne Alternative Kärnten (GRÜNE)""",30.11.1987
+251,"""DIE GRÜNEN - DIE GRÜNE ALTERNATIVE NIEDERÖSTERREICH"", Kurzbezeichnung ""GRÜNE NÖ""",23.07.1987
+252,"""DIE GRÜNEN - Die Grüne Alternative Salzburg""",21.10.1983
+253,"""Die Grünen - Die Grüne Alternative Steiermark (Grüne)""",12.07.1985
+254,"""DIE GRÜNEN - DIE GRÜNE ALTERNATIVE TIROL (GRÜNE)""",13.09.1989
+255,"""DIE GRÜNEN - Grüne Alternative Baden (Grüne)""",20.11.1987
+256,"""DIE GRÜNEN - Grüne Alternative Bruck/Leitha (Grüne)""",20.12.2002
+257,"""Die Grünen - Grüne Alternative Vorarlberg"", ",26.09.1988
+258,"""Die Grünen - Grüne Alternative Wien (GRÜNE)""",26.11.1990
+259,"""Die Grünen - Partei für gesunde Umwelt und saubere Politik""",07.12.1982
+260,"""DIE GRÜNEN (GRÜNE) - Die Grüne Alternative Bezirk Krems"", kurz ""Grüne Bezirk Krems""",07.08.1998
+261,"""DIE GRÜNEN ALTERNATIVEN ÖSTERREICHS (GAÖ)""",19.11.1982
+262,"""DIE GRÜNEN ALTERNATIVEN"" (GAL)",19.11.1982
+263,"""DIE GRÜNEN Amstetten""",14.05.2001
+264,"""DIE GRÜNEN Brunn am Gebirge""",07.11.2000
+265,"""Die Grünen Demokrat/inn/en""",09.06.1988
+266,"""DIE GRÜNEN GUMPOLDSKIRCHEN""",20.02.2004
+267,"""Die Grünen Klagenfurt""",04.11.1998
+268,"""Die Grünen Leonding"", Abkürzung ""Die Grünen""",05.06.2013
+269,"""DIE GRÜNEN MÖDLING""",22.08.1995
+270,"""DIE GRÜNEN ÖSTERREICHS - DIE NEUE GRÜNE ALTERNATIVE""",28.02.1982
+271,"""DIE GRÜNEN ÖSTERREICHS"" - Vereinte Grüne Parteien - (GRÜNE)",27.09.1982
+272,"""DIE GRÜNEN ÖSTERREICHS"" (GRÜNE)",26.11.1984
+273,"""DIE GRÜNEN ÖSTERREICHS"" (Wahlgemeinschaft von Bürgerinitiativen, Atomgegnern, Natur-, Umweltschutz- und ",28.01.1982
+274,"""DIE GRÜNEN PERCHTOLDSDORF""",03.04.2003
+275,"""Die Grünen St. Pölten"", kurz ""Die Grünen"", ""Grüne""",13.05.1991
+276,"""DIE GRÜNEN Tulln - Ökologisches Bürgerforum (Grüne)""",10.08.1995
+277,"""DIE GRÜNEN VILLACH""",06.06.1988
+278,"""Die Grünen Wiener Neustadt""",20.07.1988
+279,"""DIE GRÜNEN WIENERWALD""",22.08.2013
+280,"""Die Grünen Zwettl"", kurz ""GrüZw""",07.11.2001
+281,"""DIE GRÜNEN""",27.01.1981
+282,"""DIE GRÜNEN"" (GRÜNE)",12.06.1986
+283,"""DIE GRÜNEN"", Kurzbezeichnung ""GRÜNE""",18.08.1992
+284,"""DIE GRÜNEN, Landesverband Burgenland""",18.08.1992
+285,"""DIE GRÜNEN, Landesverband Kärnten""",18.08.1992
+286,"""DIE GRÜNEN, Landesverband Oberösterreich""",18.08.1992
+287,"""DIE GRÜNEN, Landesverband Salzburg""",18.08.1992
+288,"""DIE GRÜNEN, Landesverband Steiermark""",18.08.1992
+289,"""DIE GRÜNEN, Landesverband Tirol""",18.08.1992
+290,"""DIE GRÜNEN, Landesverband Vorarlberg""",18.08.1992
+291,"""Die Hernalser Initiative""",24.07.2006
+292,"""Die Jungen Liberalen Österreich"", kurz ""JuLis""",08.02.1993
+293,"""Die Liberale Alternative""",26.03.1987
+294,"""Die Liberale Initiative""",25.03.1987
+295,"""DIE LIBERALEN ÖSTERREICHS""",18.07.1990
+296,"""DIE LIBERALEN"" (L)",18.07.1990
+297,"""DIE LINKE""",03.12.2012
+298,"""Die Mitte""",23.03.2006
+299,"""Die Neue Partei""",04.10.2012
+300,"""Die Opposition - Bewegung überparteilicher Bürgerinitiativen",24.06.1994
+301,"""Die österreichische Autofahrerpartei""",09.01.1989
+302,"""DIE ÖSTERREICHISCHEN GRÜNEN - DIE NEUE GRÜNE ALTERNATIVE""",04.03.1982
+303,"""Die Österreichischen Liberalen - Plattform liberaler Kräfte in Österreich"", Kurzbezeichnung ""Liberale""",30.05.1988
+304,"""Die Politische Palette Österreichs""",08.10.1999
+305,"""Die Rebellen vom Liang Shan Po"" (""D.R.V.L.S.P."")",04.03.1983
+306,"""DIE REPUBLIKANER ÖSTERREICHS"" (REP)",12.10.1989
+307,"""DIE REPUBLIKANER"" (REP)",26.04.1989
+308,"""Die Sozialliberalen""",06.03.2002
+309,"""Die Stadtpartei Wien 2001""",16.12.1999
+310,"""Die Templer - Patriotische Christen Österreichs"", Kurzbezeichnung ""TCÖ""",14.12.2011
+311,"""DIE UNABHÄNGIGEN""",21.06.1999
+312,"""Die weiße Friedenspartei Österreich"", Kurzbezeichnung ""wFPÖ""",01.04.2008
+313,"""Die Weiße Partei Österreich"" (WPÖ)",25.09.2006
+314,"""Die Weiße Partei Österreichs, Demokratische Wahlmonarchie (WPÖ/DWM)""",15.06.1989
+315,"""Die weiße Rose""",13.05.1988
+316,"""DIE WEISSEN ÖSTERREICHS"" (unabhängige Bürgerbewegung)",13.06.2008
+317,"""Die Weißen"" (Die Weissen) Bewegung freier, initiativer Bürger zur Stärkung der kleinen Einheiten ""Small is beautiful""",06.07.1994
+318,"""Die Weißen"" Bewegung überparteilicher Bürgerinitiativen",21.06.1994
+319,"""Die Weißen"" Bewegung überparteilicher Bürgerinitiativen",28.06.1994
+320,"""DIE WEISSEN"", Kurzbezeichnung ""WEISS""",08.06.2010
+321,"""Die Welser Freiheitlichen"" (FPW)",05.10.2005
+322,"""DIE WIRTSCHAFTSPARTEI""",03.02.1992
+323,"""Direkt-Demokratische Plattform Österreichs"", kurz ""DDP""",18.11.2003
+324,"""DONAU - STADT - PARTEI"" (Abkürzung ""DSP"")",30.09.1997
+325,"""DONAUSTADT-PARTEI""",08.07.1997
+326,"""dynamik 5 - europäisch, solidarisch, ökologisch, spirituell, politisch""",01.06.2001
+327,"""Ebreichsdorfer Wahlgemeinschaft (EWG)""",08.10.1990
+328,"""ECHT Josefstadt - Liste Heribert Rahdjian"", Kurzbezeichnung ""ECHT""",21.03.2013
+329,"""Ein Herz für Inländer"" (Herz)",13.06.1988
+330,"""ENOTNA LISTA - Einheitsliste (EL)""",25.07.1991
+331,"""Ergokratische Partei Österreichs"", abgekürzt ""EPÖ""",03.03.1978
+332,"""'Esobioterik'-Bewegung Europas (EBT)""",09.01.2003
+333,"""Ethik-Partei-Europa""; Kurzform: ""EtP-EU"" In Österreich: ""Ethik-Partei-Europa/AUT""; Kurzform: EtP-EU/AUT""",17.08.2005
+334,"""EU-Austrittspartei""",07.10.2011
+335,"""EUGP - Europäische Generationen Partei""",22.02.2008
+336,"""Euredo""",06.12.2011
+337,"""EUROMED""",21.02.1997
+338,"""Europäisch Asiatisch Arabische Union"" (EAAU)",10.11.2006
+339,"""EUROPÄISCHE BÜRGERNOTWEHR ZUR WAHRUNG DER WÄHRUNGSPOLITISCHEN EINHEIT (EBN)""",10.09.2012
+340,"""EUROPÄISCHE FREIHEITS-BEWEGUNG (EFB)""",28.06.1984
+341,"""EUROPÄISCHE LIBERALE""",18.07.1990
+342,"""Europäische Partei Ostara Bildungswerk"" (EPOBW)",13.06.1984
+343,"""Europäische Partei Österreichs"", kurz ""E.P.Ö.""",01.04.1983
+344,"""Fachschaftsliste der Universität für Bodenkultur""",25.01.1993
+345,"""Fachschaftsliste""",06.05.1987
+346,"""Familienpartei Österreich"" (Kurzbezeichnung ""FAPÖ"")",03.10.2005
+347,"""Forum Austritt Österreichs aus der EU""",05.03.2013
+348,"""FPÖ - Die Tiroler Freiheitlichen"", kurz ""FPÖ - Tirol""",06.05.2003
+349,"""Frankenburger Alternative"" (FAL)",04.11.1998
+350,"""FRAUENPARTEI""",25.10.1995
+351,"""Freidemokraten (Freie)""",12.04.2012
+352,"""Freie Demokraten Salzburg"" (FDS)",05.11.2003
+353,"""Freie Demokratische Partei (FDP)""",30.06.1986
+354,"""Freie Demokratische Partei Wien - Die Liberalen (F.D.P.)""",08.07.1994
+355,"""Freie Humanistische Partei Österreichs""",13.10.1981
+356,"""FREIE MEDIEN, BADEN""",27.03.1996
+357,"""Freie Partei Tirol"", Abkürzung ""FPT""",30.11.2005
+358,"""FREIE PATIENTENKAMMER in Gr. Interessengemeinschaft für eigenverantwortliche Patienten und freie Therapiewahl in ",11.08.1995
+359,"""Freie Wiener Medien"" (FWM)",04.07.1997
+360,"""Freies Bündnis Zukunft - Wien"", Kurzbezeichnung ""FBZ - Wien""",22.03.2010
+361,"""FREIES BÜRGERFORUM - Partei für direkte Demokratie""",08.02.1983
+362,"""FREIES EUROPA""",19.03.1997
+363,"""Freiheitliche Partei Österreichs (FPÖ) - Die Freiheitlichen""",15.04.1977
+364,"""Freiheitliche Partei Österreichs (FPÖ) - Die Freiheitlichen, Landesgruppe Salzburg""",15.04.1977
+365,"""Freiheitliche Partei Österreichs (FPÖ) - Landesgruppe Niederösterreich - Freiheitliche Partei Niederösterreichs - ",18.09.1984
+366,"""Freiheitliche Partei Österreichs (FPÖ), Landesgruppe Kärnten""",15.04.1977
+367,"""Freiheitliche Partei Österreichs (FPÖ), Landesgruppe Oberösterreich""",15.04.1977
+368,"""Freiheitliche Partei Österreichs (FPÖ), Landesgruppe Vorarlberg""",21.12.2005
+369,"""Freiheitliche Partei Österreichs (FPÖ), Landesgruppe Wien""",15.04.1977
+370,"""Freiheitliche Partei Österreichs (FPÖ), Landespartei Burgenland""",15.04.1977
+371,"""Freiheitliche Partei Österreichs (FPÖ), Landespartei Steiermark""",15.04.1977
+372,"""Für Tirol - Partei der Mitte""",11.07.2012
+373,"""Gaddavista Partei Österreichs""",16.02.2012
+374,"""GCA Global Change Alliance (Bündnis für globale Veränderung)""",06.12.2011
+375,"""GELD und BÖRSE""",20.08.1987
+376,"""Gemeinsam leben""",26.03.1990
+377,"""GEMEINSCHAFT DER BÜRGERINNEN (GDB)""",22.08.2011
+378,"""GEMEINSCHAFTLICHES-ÖSTERREICH (G-05)"", Kurzbezeichnung ""G-05""",16.10.2012
+379,"""GEMEINSCHAFTLICHE-TIROLER-INITIATIVE (G-T-I)"", Kurzbezeichnung ""G-T-I""",18.12.2012
+380,"""Gemeinwohl, Hausverstand, Verantwortung"", Abkürzung ""GHV""",04.05.1994
+381,"""Gerechtigkeit Partei Österreich GPÖ""",23.08.2006
+382,"""Gerechtigkeits-Bewegung""",23.06.1980
+383,"""GERECHTIGKEITSPARTEI"" Überparteiliche Sammelbewegung für Wahrheit, Gerechtigkeit und Freiheit",31.10.1989
+384,"""Gesamteuropäische Partei Österreichs (GEP)""",15.06.1976
+385,"""GESAMTÖSTERREICHISCHE ALTERNATIVE LISTE (GAL)"" ",19.11.1982
+386,"""Gesellschaftsdemokratische Partei Österreichs GPPÖ""",26.09.2006
+387,"""Gesellschaftspolitische Vereinigung""",27.12.2006
+388,"""GESTALTUNG für MENSCHEN (MENSCHEN ÖSTERREICH oder MENSCHEN)""",05.04.2005
+389,"""GEWALTFREIE AKTION GLOBAL 2000""",01.09.1982
+390,"""GPO - Generationen Partei Oesterreich""",29.10.2007
+391,"""Grazer Bürgerliste"", Kurzbezeichnung ""GBL""",02.12.1991
+392,"""Grazer Verkehrspartei""",06.02.2001
+393,"""GRÜN - ALTERNATIVEN (GAL OÖ)""",06.05.1985
+394,"""GRÜN ALTERNATIVE LISTE KORNEUBURG""",20.06.1990
+395,"""Grün Alternative Liste Linz"" (GALL)",29.09.1986
+396,"""GRÜN ALTERNATIVE STEIERMARK""",12.07.1985
+397,"""GRÜNALGE"" (Grün-alternative Gemeindepolitik)",24.06.1986
+398,"""GRÜN-ALTERNATIVE BÜRGERLISTE Gmunden (GABL)""",26.08.1985
+399,"""GRÜN-ALTERNATIVE BÜRGERLISTE LANGENZERSDORF (GABL)""",16.01.1990
+400,"""GRÜN-ALTERNATIVE BÜRGERLISTE Linz""",22.05.1985
+401,"""Grün-Alternative Bürgerliste"", kurz ""GABL""",15.02.1988
+402,"""GRÜN-ALTERNATIVE LISTE GRAZ/Liste unabhängiger Grazerinnen und Grazer (ALG)""",09.01.1987
+403,"""GRÜN-ALTERNATIVE LISTE GRAZ/Unabhängige (ALG)""",09.01.1987
+404,"""GRÜN-ALTERNATIVE LISTE GRAZ/Unabhängige Bürgerlisten (ALG)""",09.01.1987
+405,"""Grün-Alternative Liste Österreichs (GALÖ)""",16.09.1982
+406,"""GRÜN-ALTERNATIVE LISTE STEIERMARK (GRÜNE)"", Kurzbezeichnung ""VGÖ - AL""",13.03.1987
+407,"""Grün-Alternative Partei Österreichs""",23.09.1982
+408,"""GRÜN-ALTERNATIVE SAMMLUNG STEIERMARK"", Kurzbezeichnung ""GRAS-STEIERMARK""",26.06.1986
+409,"""GRÜN-ALTERNATIVE SAMMLUNG WIEN"", Kurzbezeichnung ""GRAS-WIEN""",04.03.1986
+410,"""Grün-Alternative Steiermark (Grüne)""",15.02.1988
+411,"""Grün-alternative-Bürgerliste-Bürmoos, GABL""",20.09.1983
+412,"""Grün-Alternatives Graz (Grüne)""",15.02.1988
+413,"""Grundrisse""",05.12.2001
+414,"""Grüne Alternative Hernals"", Kurzbezeichnung ""GRÜNE""",24.11.1986
+415,"""Grüne Alternative Klagenfurt/Zelena Alternativa Celovec (GA Klagenfurt/ZA Celovec)""",16.09.1992
+416,"""Grüne Alternative Liste Schwechat"", Kurzbezeichnung ""Die Grünen Schwechat""",19.04.1989
+417,"""Grüne Alternative Liste Steyr"", Kurzformen ""GAL-Steyr"" bzw ""Die Grünen Steyr (Grüne)""",26.07.1984
+418,"""Grüne Alternative Sammlung Hernals"" (GRAS Hernals)",07.05.1986
+419,"""Grüne Alternative Waidhofen/Ybbs"", kurz ""GAL""",23.12.1992
+420,"""GRÜNE ALTERNATIVE, DIE GRÜNEN DEUTSCH-WAGRAM"", kurz ""DIE GRÜNEN""",25.10.1995
+421,"""GRÜNE ARBEITNEHMER - Grüne in der Arbeiterkammer"", Kurzbezeichnung ""GA""",18.02.2000
+422,"""GRÜNE BEWEGUNG""",09.04.1982
+423,"""Grüne Liste Graz (Grüne)""",15.02.1988
+424,"""Grüne Liste Kreuttal"" (Kurzbezeichnung GLIK)",14.06.1995
+425,"""GRÜNE LISTE Neukirchen-Zipf""",01.08.1985
+426,"""Grüne Liste Österreich (GLÖ)""",25.08.1992
+427,"""GRÜNE LISTE ÖSTERREICHS"", abgekürzt ""GLÖ""",17.05.1983
+428,"""Grüne Liste Steiermark (Grüne)""",15.02.1988
+429,"""Grüne Liste Wien"", Kurzbezeichnung ""GLW""",25.08.1992
+430,"""Grüne Mitte Österreichs""",11.01.1982
+431,"""Grüne Mitte""",05.06.1981
+432,"""GRÜNE ÖSTERREICHS (GRÜNE)""",27.09.1982
+433,"""GRÜNE ÖSTERREICHS (GRÜNE)""",26.11.1984
+434,"""GRÜNE ÖSTERREICHS"" (GRÜNE) -Vereinte Grüne Parteien-",26.11.1984
+435,"""GRÜNE PARTEI ÖSTERREICHS""",07.05.1980
+436,"""GRÜNE PLATTFORM"", Abkürzung ""GP""",31.07.1990
+437,"""Grüne Steiermark (Grüne)""",15.02.1988
+438,"""Grüne und Alternative Student/inn/enliste Uni Wien"", Kurzbezeichnung ""Grüne"", Abkürzung ""GRAS""",10.09.1990
+439,"""Grüne und Alternative StudentInnen - Grüne (GRAS)""",28.12.1992
+440,"""Grüne Union Österreichs""",18.02.1982
+441,"""GRÜNE"" (GRÜNE)",26.11.1984
+442,"""GRÜNES FORUM ÖSTERREICH - WAHLGEMEINSCHAFT ÖSTERREICHISCHER GRÜNER"" (Wahlplattform von ",22.02.1983
+443,"""Grünes Graz (Grüne)""",15.02.1988
+444,"""Grünes Unabhängiges Österreich"", kurz ""Ö""",18.03.2003
+445,"""Gruppe Arbeiterstandpunkt""",27.01.1986
+446,"""Gruppe für revolutionäre Arbeiter/innen/politik (GRA)""",08.09.2004
+447,"""Gruppe Internationalistische Kommunisten""",13.03.1989
+448,"""GRUWI-Plenum""",20.03.1995
+449,"""Gurgiser & Team - BürgerKlub Tirol""",13.01.2013
+450,"""H.O.L.A.""",17.07.2000
+451,"""HALT-BEWEGUNG""",23.05.1984
+452,"""HAUSFRAUENKARTELL""",04.04.1995
+453,"""Healing Power"" (HP)",05.11.1993
+454,"""Heimatpartei Österreich"", Kurzbezeichnung ""HPÖ""",28.02.2008
+455,"""Heinzelmännchenpartei""",10.09.2012
+456,"""HELP FOR YOU Plattform für spirituelle Lebenshilfe""",12.03.2007
+457,"""Hennersdorfer Bürgerinitiative"", kurz ""HeBI""",18.12.1989
+458,"""Herbert Starl - Alpenforum, der Tourismus""",05.07.1994
+459,"""HERNALSER GRÜNE ALTERNATIVE"", Kurzbezeichnung ""GRÜNE""",24.11.1986
+460,"""HIV (Haben Immer Vernunft)""",21.06.1994
+461,"""hpö - die hausstöcke""",03.02.2003
+462,"""Humanistische Aktion Universität"", Abkürzung ""HAU""",09.11.1993
+463,"""Humanistische Partei - Bezirksgruppe Alsergrund"", Abkürzung ""HP""",09.11.1993
+464,"""Humanistische Partei - Bezirksgruppe Hernals"", Abkürzung ""HP""",09.11.1993
+465,"""Humanistische Partei - Bezirksgruppe Währing"", Abkürzung ""HP""",09.11.1993
+466,"""Humanistische Partei - Regionalsektion Wien"", Abkürzung ""HP""",09.11.1993
+467,"""Humanistische Partei Österreichs"" (HPÖ)",18.01.2006
+468,"""Humanistische Partei"", Abkürzung ""HP""",09.11.1993
+469,"""ICH WÄHLE NICHT""",05.05.2008
+470,"""IndianerInnenpartei mit Hausverstand Österreichs"", kurz ""IÖ""",10.11.2012
+471,"""INITIATIVE 2000""",29.09.2006
+472,"""Initiative für eine revolutionäre Organisation""",02.05.2001
+473,"""INITIATIVE FÜR GAADENER LEBENSQUALITÄT (IGL)""",17.12.1991
+474,"""Initiative für mehr direkte Demokratie""",08.02.2002
+475,"""Initiative für Öffentlichkeit und Kommunikation"", Abkürzung ""IfÖK""",13.10.1989
+476,"""Initiative Haschisch Legal""",05.04.1982
+477,"""Initiative Heimat und Umwelt"", abgekürzt ""IHU""",12.06.1990
+478,"""Initiative Lebenswertes Seekirchen (LeSe) Partei für sachbezogene und unabhängige Gemeindepolitik in Seekirchen""",12.12.1994
+479,"""Initiative Neue Linke"", Kurzbezeichnung ""Neue Linke"", abgekürzt ""INL"" und ""NL""",11.11.1987
+480,"""Initiative Ökologischer Demokraten"", kurz ""IÖD""",22.08.1997
+481,"""Initiative Österreichischer Atomkraftwerksgegner"" (kurz ""IÖAG"")",05.04.1978
+482,"""Initiative zur Verbreitung unterbliebener Nachrichten - IVUN""",20.02.1986
+483,"""Inn Piraten""",28.09.2012
+484,"""Inovative Fraktion""",07.01.2009
+485,"""INTERESSENVERBAND HANDEL-GEWERBE-INDUSTRIE INFORMATION FÜR WIRTSCHAFT UND HUMANITÄT"", ",31.03.1983
+486,"""Internationales Rechtshilfeforum"", Kurzbezeichnung ""I.R.F.""",17.02.1987
+487,"""ISLAMISCH SOZIALE UNION (ISU)""",04.01.2010
+488,"""Jakobinerclub""",30.04.2012
+489,"""Jetzt Oder Nie""",15.06.1984
+490,"""Junge Liberale""",28.01.2000
+491,"""Kampuchea-Solidaritätskomitee"", abgekürzt ""KSK""",29.06.1981
+492,"""Kärntner Bürgerliste"" (KBL)",28.08.1987
+493,"""Keine-Partei""",29.06.2005
+494,"""Kern Gesundes Österreich"", kurz ""KGÖ""",16.04.2009
+495,"""KOMitee zur Verteidiguing der Gesellschaft gegen den Staat"" (KVGS)",14.10.1983
+496,"""Kommunistische Organisation Wien"" (KOW)",07.04.1981
+497,"""Kommunistische Partei Österreichs (KPÖ)""",13.01.1976
+498,"""Kommunistischer Bund Österreichs (KB)""",20.06.1977
+499,"""Kommunistischer Bund Salzburg"" (KB Salzburg)",29.12.1980
+500,"""KONSERVATIVE PARTEI ÖSTERREICHS"" (K) - Die Konservativen -",11.07.1988
+501,"""Konservativ-liberale Partei Österreichs""",19.06.1979
+502,"""KOROSKA ENOTNA LISTA - KÄRNTNER EINHEITSLISTE (KEL)""",30.09.1987
+503,"""Kritische Autonome Zelle""",10.07.1995
+504,"""KRITISCHE DEMOKRATEN - KD""",09.11.1990
+505,"""Kroatische Demokratische Union"", kurz ""KDU""",06.07.2008
+506,"""KULTURVERBAND denkmalgeschützter Objekte""",17.11.1983
+507,"""L.G.F., Liberales Golf Forum""",12.02.2010
+508,"""L.U.S.T., Liberale Union Österreichs""",28.10.2004
+509,"""Landesparteiorganisation der ÖSTERREICHISCHEN VOLKSPARTEI (ÖVP) im Bundesland Salzburg""",06.02.1995
+510,"""Leben ist eine bewegliche Einheit (L.i.e.b.E.)""",06.07.1995
+511,"""LEBEN""",18.03.1996
+512,"""Lebenswerte Partei Österreichs"", kurz ""LPÖ""",29.11.2011
+513,"""Lebenswerte Stadt""",11.09.1990
+514,"""LIBERALDEMOKRATISCHE PARTEI"" (LDP) - Die Liberalen - ",25.04.1986
+515,"""liberaldemokratische Partei"", kurz ""LDP""",20.07.2009
+516,"""Liberal-Demokratische Union"", Abkürzung ""LDU""",25.08.1992
+517,"""Liberal-Demokratisches Forum"" (LDF)",09.02.1993
+518,"""LIBERALE BEWEGUNG ÖSTERREICHS"" (LBÖ)",18.07.1990
+519,"""Liberale Demokraten"", Abkürzung ""LD""",13.11.1992
+520,"""LIBERALE EUROPA - UNION""",18.07.1990
+521,"""LIBERALE PARTEI ÖSTERREICHS"" (LPÖ)",25.04.1986
+522,"""Liberale Stadtpartei""",19.06.2002
+523,"""liberale Volksunion""",29.06.2009
+524,"""Liberales Arbeitnehmerinnen und Arbeitnehmer Forum"", Abkürzung ""LIF""",11.11.1999
+525,"""Liberales Forum (LIF)""",09.02.1993
+526,"""Liberales Forum"" (LF)",09.02.1993
+527,"""LIBERALES FORUM"" Österreich (LFÖ)",09.02.1993
+528,"""Liberales Studentinnen und Studenten Forum - Unigruppe Wien"", Abkürzung ""LSF""",24.01.1995
+529,"""Liberales Studentinnen und Studenten Forum - WU-Wien"", Abkürzung ""LSF - die Liberalen WU"" bzw ""LSFWU""",17.03.1998
+530,"""Liberales Studentinnen und Studenten Forum Graz (LSFG)""",28.02.1997
+531,"""Liberales Studentinnen und Studenten Forum Linz"", Kurzbezeichnung ""LSF-Linz""",10.01.1997
+532,"""Liberales Studentinnen und Studenten Forum Salzburg"", Abkürzung ""LSF - die Liberalen"" ",15.04.1998
+533,"""Liberales Uniforum"", Abkürzung ""LUF""",08.04.1999
+534,"""Liberal-Fortschrittliche Partei - Pepi Wagner"" LFP",15.04.1996
+535,"""Liberal-Republikanische Partei (LRP)""",30.06.1986
+536,"""LIBERAL-SOZIALE PARTEI"" (LSP)",25.02.1986
+537,"""LIBERTÄRE ASSOZIATION ÖSTERREICH-(LAÖ)""",16.10.1985
+538,"""Libertäres Plenum Linz""",27.10.1988
+539,"""Linke Alternative Liste"" (LAL)",12.06.1986
+540,"""LINZER BÜRGERRAT"", Kurzform ""LBR""",02.01.2012
+541,"""Liste Baum""",29.09.1992
+542,"""Liste Bürger & Umwelt (LBU)""",05.07.1990
+543,"""Liste der EU-Opposition Gabriele Wladyka"", abgekürzt ""LEO""",18.01.1994
+544,"""Liste Dr. Martin - Für Demokratie, Kontrolle, Gerechtigkeit""",06.05.2004
+545,"""Liste gegen Ausländer""",11.12.1981
+546,"""Liste Hirschmann""",10.06.2005
+547,"""LISTE KRITISCHER STUDENTEN""",10.09.1984
+548,"""Liste Maria Lanzendorf"", kurz ""LiMaLa""",28.06.1990
+549,"""LISTE ÖSTERREICH""",18.12.2012
+550,"""Liste Parndorf (LIPA)""",28.12.1995
+551,"""Liste Steiermark"", Kurzbezeichnung ""Liste""",21.06.2010
+552,"""Liste Unabhängiger MedizinerInnen"" (LUM)",02.04.1997
+553,"""Liste Unabhängiger Studierender"", Kurzbezeichnung ""LUST""",27.02.1995
+554,"""LISTE VÖSENDORF 2000""",10.03.1998
+555,"""LM Arbeitsgemeinschaft für Medienproduktion"", Kurzbezeichnung ""LM""",22.02.1989
+556,"""LSF-Die Liberalen Linz""",12.04.2001
+557,"""Manfred Bauer""",04.08.1992
+558,"""Männerpartei""",04.02.2008
+559,"""Marco Polo-Gesellschaft"", Untertitel ""Gesellschaft zur Förderung europäisch-chinesischer Kooperation""",30.03.1981
+560,"""Marxistische Gruppe (MG)""",15.03.1985
+561,"""Marxistisch-Leninistische Partei Österreichs (MLPÖ)""",05.08.1983
+562,"""Medaillon""",30.11.1994
+563,"""Mehrheitspartei""",17.07.2000
+564,"""MENSCH UND GESELLSCHAFT""",28.03.1990
+565,"""Milser Dorf Blatt""",26.01.1996
+566,"""Mit Anstand"" (Anstaendig)",07.12.2011
+567,"""Mitte-Partei Österreichs"", kurz ""MPÖ""",18.06.2012
+568,"""Mosaik""",16.06.1988
+569,"""MUTBÜRGER"", kurz ""MUT""",24.10.2012
+570,"""NACHBAR IN NOT""",10.11.1995
+571,"""NATIONAL - FREIHEITLICHE"" (NF)",08.07.1987
+572,"""National Freiheitliche Aktion"", abgekürzt ""NFA""",20.04.1984
+573,"""Nationaldemokratische Partei (NDP)""",01.08.1975
+574,"""Nationale Errettungspartei"" (NEP)",14.10.1983
+575,"""NATIONALE FRONT""",09.07.1984
+576,"""Nationale Rechtspartei - N.R.P.""",07.09.1977
+577,"""NATIONALE VOLKS-PARTEI"" (N V P)",05.02.2008
+578,"""Nationale Volkspartei"", kurz ""NVP""",08.11.2007
+579,"""National-Europäische-Partei-Österreich"", Kurzform N.E.P.Ö.",28.02.1983
+580,"""National-freiheitliche Aktion (NFA)""",17.05.1984
+581,"""National-freiheitliche Partei (NFP)""",21.05.1984
+582,"""National-freiheitliche Sammlung (NFS)"" ",21.05.1984
+583,"""Nationalistische Befreiungs Front"" (NBF)",13.12.1979
+584,"""Nationalistischer Bund Nordland (NBN)""",18.06.1979
+585,"""National-Konservative Union (NAKU)""",02.05.1985
+586,"""NATIONALREALISTISCHE ORDNUNGSPARTEI (NROP)""",24.08.1976
+587,"""Naturschutz Aktiv""",15.06.1984
+588,"""Naturschutz Aktiv""",23.07.1986
+589,"""NEIN zur Atom-EU Bürgerliste Neutrales Österreich""",15.03.1994
+590,"""NEOS - Das neue Österreich""",10.08.2012
+591,"""Neue Männerpartei Österreichs (NMÖ)""",20.04.2009
+592,"""NEUE MITTE""",17.11.1975
+593,"""NEUE ORDNUNG (NO)""",04.05.1987
+594,"""NEUE PARTEI ÖSTERREICH""",01.12.1997
+595,"""NEUE VOLKSPARTEI"", kurz ""NVP""",15.06.1989
+596,"""NEUES EUROPA""",20.10.1987
+597,"""Neues Leben""",22.09.1982
+598,"""Neusoziale demokratische Partei"" (NSDP)",11.12.1981
+599,"""Neutrales Österreich""",10.04.1996
+600,"""Neutrales Österreich"", Kurzbezeichnung ""NEU""",29.04.1996
+601,"""Notwehrgemeinschaft""",07.07.2003
+602,"""NPÖ Nationaldemokratische Partei Österreichs""",08.04.2002
+603,"""ÖBP"" Österreichische Bürger Partei",07.02.2012
+604,"""ÖBWP Österreichische Bürger und Wirtschaftspartei""",11.08.2004
+605,"""ÖEP - Österreichische Ethikpartei""",04.08.2009
+606,"""Offene Bürgerliste Dornbirn""",21.01.1993
+607,"""ÖKO-Liberale Partei (ÖLP)""",30.06.1986
+608,"""Ökologisch-Demokratische Partei"", Abkürzung ""ÖDP""",25.08.1992
+609,"""Ökologische Informationen (ÖI)""",11.12.1991
+610,"""Ökologische Linke"" (ÖKOLI)",01.12.1998
+611,"""Organisation freier Staatsbürger Österreich"", Abkürzung ""OFÖST""",30.05.1983
+612,"""Organisation für Atheismus und Aufklärung"", kurz ""OAA""",04.01.1990
+613,"""Österreich 2000, Partei für Freiheit, Brüderlichkeit und Toleranz""",30.01.1990
+614,"""ÖSTERREICH SOUVERÄN und FREI"" (ÖSF)",30.09.2005
+615,"""Österreich-Club""",27.03.1997
+616,"""Österreichische aktive Partei"", Abkürzung ""Ö.A.P.""",20.09.1996
+617,"""ÖSTERREICHISCHE ALLGEMEINE PARTEI"", Abkürzung ""ÖAP""",10.08.1982
+618,"""Österreichische Arbeiterpartei""",12.07.1988
+619,"""Österreichische Autofahrer- und Bürgerinteressen-Partei (ÖABP) Landesorganisation Steiermark""",06.02.1992
+620,"""Österreichische Autofahrer- und Bürgerinteressen-Partei (ÖABP), Landesorganisation für Wien, Niederösterreich und ",12.01.1993
+621,"""Österreichische Autofahrer- und Bürgerinteressenspartei (ÖABP) - Landesorganisation Tirol""",05.05.1993
+622,"""Österreichische Autofahrer- und Bürgerinteressens-Partei"" (ÖABP)",05.11.1991
+623,"""Österreichische Autofahrer- und Bürgerinteressens-Partei"" (ÖABP) - Landespartei Oberösterreich",23.06.1993
+624,"""Österreichische Autofahrer- und Bürgerinteressens-Partei"" (ÖABP) - Landespartei Salzburg",27.10.1992
+625,"""Österreichische Befehlsverweigerer Partei & Befehlsverweigerer Partei Österreichs"" ÖBP&BPÖ",27.03.2006
+626,"""Österreichische Bierschutzpartei"", Kurzbezeichnung ""ÖBSP""",24.06.2009
+627,"""Österreichische Bürger Partei (ÖBP)""",30.12.2004
+628,"""Österreichische Bürgerbewegung""",28.07.2008
+629,"""Österreichische Bürgerinitiative"", Kurzbezeichnung ""ÖBI""",05.02.1987
+630,"""Österreichische Bürgerpartei Ö.B.P.""",14.11.1995
+631,"""Österreichische Bürgerpartei""",29.06.1990
+632,"""ÖSTERREICHISCHE BÜRGERPARTEI"", abgekürzt ""ÖBP""",12.11.1982
+633,"""ÖSTERREICHISCHE DEMOKRATISCHE PROPORTION"", Kurzbezeichnung ""ÖDP""",22.12.1993
+634,"""Österreichische Freiheitspartei"" (ÖFP)",14.10.1983
+635,"""ÖSTERREICHISCHE FRIEDENSPARTEI (ÖFPA)""",20.11.1985
+636,"""Österreichische Gerechtigkeitspartei"", kurz ""ÖGP""",11.08.1980
+637,"""ÖSTERREICHISCHE GESELLSCHAFT FÜR INTERMEDIALE ZUSAMMENARBEIT"", Kurzbezeichnung ""INTERMEDIA""",24.02.1987
+638,"""Österreichische Gesellschaft für Konsumenteninformation"", Kurzbezeichnung ""ÖGK""",22.02.1989
+639,"""Österreichische Gesellschaft für menschliches Recht (ÖGmR)""",22.08.1983
+640,"""Österreichische Gesellschaft für Nahrungsinformation"", Kurzbezeichnung ""ÖGN""",24.02.1987
+641,"""Österreichische Gesellschaft für Verbraucherinformation und Konsumentenschutz"", Kurzbezeichnung ""ÖGV""",21.08.1989
+642,"""ÖSTERREICHISCHE GESELLSCHAFT FÜR VERBRAUCHERINFORMATION"", Kurzbezeichnung ""ÖGV""",17.03.1987
+643,"""Österreichische Gesellschaft zur Altstadterhaltung"", Kurzbezeichnung ""ÖGA""",21.08.1989
+644,"""ÖSTERREICHISCHE HOCHSCHULPARTEI (ÖHP)""",23.05.1986
+645,"""Österreichische House Partei"" ÖHoP",27.03.2003
+646,"""Österreichische humanistische Partei (ÖHP)""",13.03.1981
+647,"""Österreichische Initiative für Umwelt und Kultur (ÖIUK)""",10.08.1995
+648,"""Österreichische Integrationspartei""",12.09.2000
+649,"""ÖSTERREICHISCHE KONSERVATIVE UNION, ÖKU""",07.11.1985
+650,"""Österreichische MigrantInnenpartei"", Kurzbezeichnung ""ÖMP""",26.03.2007
+651,"""Österreichische Mittelstandspartei"", kurz ""OMP""",04.12.1978
+652,"""Österreichische Naturgesetz-Partei (ÖNP)""",07.07.1994
+653,"""Österreichische Neutralitätspartei ÖNP""",22.08.1988
+654,"""Österreichische Partei für das Leben (ÖPL)""",18.05.1999
+655,"""Österreichische Partei tatkräftiger umsichtiger toleranter ehrlicher Staatsbürger (ÖPTUTES)""",13.11.1995
+656,"""Österreichische Protestpartei"", kurz ""PP""",12.10.1982
+657,"""Österreichische Tierfreundebewegung""",04.04.1997
+658,"""Österreichische Unabhängigkeitspartei"" (UP)",29.06.2004
+659,"""Österreichische und Europäische Tierrechtspartei und Tierschutzpartei Mensch-Umwelt-Tierschutz - Ökologisch Soziale ",18.01.2007
+660,"""Österreichische Unruhestifterpartei"" (Ö.U.)",14.10.1983
+661,"""Österreichische Verkehrsteilnehmer - Partei"" mit dem Untertitel ""Autonome Partei für Österreich""",19.04.1993
+662,"""Österreichische Volkspartei"" (ÖVP)",14.11.1975
+663,"""Österreichische Volksstimme""",08.09.2009
+664,"""ÖSTERREICHISCHE VOLKSUNION""",21.01.1986
+665,"""Österreichische Widerstandsbewegung"" (ÖWB)",14.10.1983
+666,"""Österreichische Zukunftspartei (ÖZP)""",23.12.2003
+667,"""Österreichische-Gerechtigkeits-Partei (ÖGP)""",20.05.1999
+668,"""Österreichische-Partei-für-alle-Nichtwähler""",10.11.1978
+669,"""ÖSTERREICHISCHER HEIMATBUND (ÖHB)""",26.04.1983
+670,"""Österreichischer Heimatdienst - ÖHD""",02.06.1981
+671,"""Österreichischer Seniorenbund (ÖSB)""",17.10.1977
+672,"""ÖSTERREICHISCHES AGRARUMWELTFORUM""",12.03.2004
+673,"""Österreichisches Bürgerrechts-Service (ÖBS)""",10.07.1996
+674,"""ÖSTERREICHISCHES WIRTSCHAFTSFORUM""",19.12.1997
+675,"""ÖSTERREICHPARTEI DE MONTE DMO""",24.04.1993
+676,"""ÖSTERREICH-PARTEI""",14.01.2013
+677,"""Österreich-Partei"", kurz ""OP""",14.12.1982
+678,"""ÖSTERREICHS ALTERNATIVE LISTE"", Kurzbezeichnung ""ÖAL""",08.11.1982
+679,"""Österreichs Bürgerbewegung""",28.07.2008
+680,"""ÖSTERREICHS GRÜNE (GRÜNE)""",26.11.1984
+681,"""ÖSTERREICHS LIBERALE""",18.07.1990
+682,"""padema partei der marken""",16.04.2010
+683,"""Pan-Sozialistische Union (PSU)""",31.01.1994
+684,"""Partei 2.0""",30.01.2012
+685,"""PARTEI AUFRECHTER ÖSTERREICHER (PAÖ)""",07.03.2005
+686,"""Partei demokratischer Sozialisten"", Abkürzung ""PDS""",30.09.1992
+687,"""Partei der Arbeit Österreichs (PdA)""",12.02.2013
+688,"""Partei der ASVG-Versicherten""",02.04.1990
+689,"""PARTEI DER FAULEN UND FEIGEN"", abgekürzt ""PFF""",21.07.1987
+690,"""Partei der Freiheit (PDF)""",07.12.2011
+691,"""Partei der Hundefreunde Österreichs""",08.08.2000
+692,"""Partei der Nichtwähler"" (PDN)",23.02.1979
+693,"""Partei der Nichtwähler"" (PDN)",24.09.1980
+694,"""Partei der Outsider"", kurz ""PDO""",20.09.1990
+695,"""PARTEI DER REPUBLIKANER"" (REP)",12.10.1989
+696,"""Partei der Sozialversicherten Österreichs""",26.09.1989
+697,"""Partei des angemessenen Fortschritts in maßvollen Grenzen""",18.12.2003
+698,"""Partei des Volkes""",27.06.2008
+699,"""Partei Freier Demokraten"", kurz ""PFD""",30.04.2003
+700,"""Partei freies Österreich""",14.01.2008
+701,"""Partei für Alpinismus, Realpolitik, Transparenz und Erfolg in Österreich"", Kurzbezeichnung ""Die Partei"", Abkürzung ",04.09.2012
+702,"""Partei für Bildung, Information, Kultur und Lebensqualität"", Kurzbezeichnung ""BIKUL""",08.09.1997
+703,"""Partei für demokratischen und sozialen Fortschritt""",22.02.2012
+704,"""Partei für den gemäßigten Fortschritt in den Grenzen des Gesetzes"" (P.f.d.g.F.i.d.G.d.G.)",14.10.1983
+705,"""Partei für den Libertären Kommunismus"" (PfdLK)",26.04.1990
+706,"""Partei für deutsche Sprache und Kultur"" (Kurzform ""Deutsche Sprache und Kultur"")",26.04.2001
+707,"""Partei für die Autonomie des Individuums""",23.01.1987
+708,"""Partei für ganzheitliche Lebensauffassung - PGL""",04.01.1988
+709,"""PARTEI für JUGEND UND VOLK"" (J + V) (NEUE JUGENDEBWEGUNG - SOZIALPOLITISCHE VOLKSPARTEI)",19.06.1979
+710,"""Partei für Kultur und Kritik""",02.05.1989
+711,"""Partei für maßvollen Fortschritt im Rahmen der Gesetze"", Abkürzung ""PFG""",15.07.1994
+712,"""Partei für Österreich""",04.09.2012
+713,"""Partei für Österreich"", kurz ""PFÖ""",14.12.1982
+714,"""Partei für Qualität, Information und Kultur"", Kurzbezeichnung ""QIK""",18.01.1995
+715,"""Partei für Recht und Ordnung - PRO""",29.09.1981
+716,"""Partei für Rechtssicherheit und Bürgernähe (RPÖ)""",06.12.2000
+717,"""Partei für sexuelle Ausschweifungen"" (P.S.A.)",14.10.1983
+718,"""Partei für soziale Gerechtigkeit""",06.04.2009
+719,"""Partei für Umwelt, Mensch und Arbeit"", mit dem Kürzel ""PUMA""",10.05.2010
+720,"""Partei für Umweltschutz und Menschlichkeit"" (kurz ""PUM"")",11.01.1982
+721,"""Partei für Umweltschutz und Menschlichkeit"" (kurz ""PUM"")",28.02.1984
+722,"""PARTEI für VOLK und JUGEND (V + J)"" -VOLKSPARTEI und JUGENDBEWEGUNG-",21.05.1982
+723,"""Partei für Wirtschafts- und Umweltinformation""",17.02.1993
+724,"""Partei gegen Rassismus""",04.12.2006
+725,"""Partei gegen rassistische Diskriminierung""",29.01.2007
+726,"""Partei glücklicher Österreicher""",08.01.1998
+727,"""Partei Neue Ordnung (PNO)""",06.04.1995
+728,"""Partei Neues Österreich"" (PNÖ)",06.11.1981
+729,"""Partei Österreich neu""",27.04.2012
+730,"""Partei Österreichischer Arbeitssuchender PÖA""",26.09.2000
+731,"""Partei Österreichischer Patrioten (PÖP)""",24.03.2011
+732,"""Partei von, für und Mit-Menschen""",23.12.1997
+733,"""Partei zur Förderung der Gesellschaft und Information im lokalen Raum""",12.09.1985
+734,"""Partei zur Förderung der sozialen, lokalen, kulturellen und sportlichen Information in Wattens und Umgebung""",12.03.1986
+735,"""Partei zur Förderung des Kultur- und Gesellschaftslebens""",29.08.1983
+736,"""PARTEI ZUR FÖRDERUNG VON STADTTEILZENTREN""",18.09.1989
+737,"""Partei zur Information von Hall und Umgebung und zur Förderung sportlicher kultureller und sozialer Kontakte""",10.10.1985
+738,"""PARTEI ZUR REVITALISIERUNG ÖSTERREICHISCHER KULTURGÜTER""",06.12.1979
+739,"""parteifrei""",25.07.2005
+740,"""PATRIOTISCHE BEWEGUNG"" (P)",08.07.1987
+741,"""Patriotische Partei Österreichs"" (PPÖ)",10.02.1978
+742,"""Patriotische Sozialisten Europas"" (PSE)",09.11.2001
+743,"""Pharmazeutische Studenteninitiative""",17.10.1990
+744,"""PHÖ - Partei Heimatverbundener Österreicher""",11.10.2007
+745,"""Piraten Partei Tirol"", Kurzbezeichnung ""PPT""",08.02.2012
+746,"""Piraten Seekirchen""",19.04.2012
+747,"""Piratenpartei Österreichs"", Kurzbezeichnung ""Piratenpartei"", Abkürzung ""PPÖ""",31.07.2006
+748,"""Piratische Studentinnen und Studenten Österreichs"", Abkürzung ""(PiSt)""",23.09.2010
+749,"""Plattform für Pluralismus und Hochschulpolitik""",30.11.1999
+750,"""Politik ohne Parteibuch"" POP",03.05.1990
+751,"""Pöltl für Österreich"", Kurzbezeichnung ""PfÖ""",24.10.2008
+752,"""PRO HETZENDORF (PH)""",08.03.2013
+753,"""Pro Kottingbrunn - Verein zur Förderung und Unterstützung der wirtschaftlichen, kulturellen und sozialen Entwicklung der ",12.01.1998
+754,"""PRO ÖSTERREICH"" (unabhängige Bürgerbewegung)",09.11.2009
+755,"""progressive Partei""",10.10.1980
+756,"""Projekt Demokratische Linke""",12.03.1991
+757,"""Protestpartei"", kurz ""PP""",14.07.1982
+758,"""PROTESTWÄHLER-PARTEI""",20.02.1992
+759,"""RADIKALE PARTEI ÖSTERREICHS"" (RPÖ)",14.06.1982
+760,"""Radikal-Liberale Partei (RLP)""",30.06.1986
+761,"""RealDemokraten Österreichs (RDÖ)""",17.08.2012
+762,"""RECHTSBLOCK""",01.03.1983
+763,"""Rechtsschutzforum unabhängige Bürgerhilfe in Zusammenarbeit von Vereinigungen Europäischer Bürgerinitiativen zum ",03.03.1986
+764,"""RED LIONS AUSTRIA - Österreichische Gesellschaft für eine bessere Welt""",24.02.1987
+765,"""Reform Partei Österreich""",08.08.2008
+766,"""REGNUM-DEI-RD""",14.11.1994
+767,"""REICHSVOLKSFÜHRUNGSBEFEHLSMACHT"", Kurzbezeichnung ""RVFBM""",24.05.1994
+768,"""REPUBLIKANISCHE BEWEGUNG"" (REP)",12.10.1989
+769,"""Republikanische Demokraten"" (Rep-Demo)",17.04.1990
+770,"""Rettet Österreich""",27.06.2008
+771,"""Revolutionär Sozialistische Organisation"" (RSO)",24.05.2007
+772,"""Revolutionär-Kommunistische Organisation zur Befreiung (RKOB)""",12.04.2011
+773,"""Revolutionsbräuhof""",20.03.1987
+774,"""RKL (Revolutionär Kommunistische Liga)""",07.03.1979
+775,"""ROSA LISTE WIEN""",19.03.1991
+776,"""ROSA LISTE""",19.03.1991
+777,"""ROTSTILZCHEN""",23.07.1986
+778,"""Salzburger Piratenpartei"", Kurzbezeichnung und Abkürzung ""Salzburger Piraten"" oder ""Piraten"", Kurzbezeichnung auf ",28.01.2013
+779,"""Salzburger Seniorenbund"", Kurzbezeichnung ""SSB""",09.12.2002
+780,"""SAMMLUNG CHRISTLICHER ALTERNATIVEN IN ÖSTERREICH (SCA)""",14.07.1986
+781,"""Schutzverband vereinigter Pensionisten Österreichs""",05.07.1985
+782,"""Senioren und Pensionisten Partei - Wien"", Kurzbezeichnung ""SEPP - Wien"", wahlweise der Zusatz ""die Seniorenpartei""",10.11.2011
+783,"""Solidarische Kultur Österreich - SKÖ""",31.07.2008
+784,"""Solidarität""",02.01.1996
+785,"""Solidarität, Ökologie und Lebensstil"" (SOL)",26.03.1990
+786,"""Sozalistische Alternative (SOAL)""",03.06.1985
+787,"""Sozial Liberales Österreich"", Kurzbezeichnung ""SLÖ""",27.05.2013
+788,"""Sozialanarchistische Union"", Kurzbezeichnung ""SAU""",29.09.1992
+789,"""Sozialdemokratische Partei Österreichs (SPÖ)""",19.08.1975
+790,"""Sozialdemokratische Partei Österreichs"" (SDPÖ)",12.02.1979
+791,"""Soziale Allianz Österreichs"", Kurzbezeichnung ""SAÖ""",13.12.1990
+792,"""SOZIALE ARBEITERPARTEI ÖSTERREICHS"", abgekürzt ""SAÖ""",17.06.1981
+793,"""Soziale Gerechtigkeitspartei Österreichs (SGÖ)""",14.05.1980
+794,"""SOZIALE HEIMAT PARTEI ÖSTERREICH""",10.05.2006
+795,"""Soziale Volksbewegung"" (SVB)",13.05.1983
+796,"""Soziale Volkspartei (SVP)""",29.10.1982
+797,"""Soziale Volksunion""",21.04.1993
+798,"""Soziales Bürgerforum Österreich SBÖ"", Untertitel ""Partei der Mitte""",15.12.2004
+799,"""Sozialisten"", abgekürzt ""SOZ""",17.06.1991
+800,"""SOZIALISTISCHE ALTERNATIVE (SOAL) - Österreichische Sektion der IV. Internationale""",10.01.1978
+801,"""Sozialistische LinksPartei"" (SLP)",12.06.1996
+802,"""SOZIALISTISCHE PARTEI ÖSTERREICH-FRAKTION"", Kurzform ""SPÖ-FRAKTION""",28.11.1990
+803,"""SOZIALISTISCHES PATIENTENKOLLEKTIV/PATIENTENFRONT (Österreich), SPK/PF (Ö)""",20.04.2000
+804,"""Sozial-konservative monarchistische Partei Österreichs (S.K.M.P.Ö.)""",14.05.1982
+805,"""Sozial-Liberale Allianz"", Kurzbezeichnung ""SLA""",13.12.1990
+806,"""SOZIAL-LIBERALE PARTEI"" (SLP)",25.04.1986
+807,"""Sozial-Liberale Partei"", Kurzbezeichnung ""SLP""",13.12.1990
+808,"""SOZIALLIBERALE-VOLKSPARTEI, (SLVP)""",12.11.1991
+809,"""Stattclub""",25.01.1982
+810,"""STEIRISCHE BÜRGERRECHTLER (SBR)""",21.02.1979
+811,"""Steirische Unabhängige Seniorenpartei""",02.04.1999
+812,"""STEIRISCH-GRÜNE BÜRGERLISTE (SGB)""",02.07.1985
+813,"""Studenten für Bildung und Politik""",26.05.1988
+814,"""Studenten für Medizinerausbildung und Gesundheitspolitik""",18.01.1991
+815,"""Studentenprotest & Nichtwähler"" (SUN)",08.07.1987
+816,"""Team Stronach für Burgenland""",18.12.2012
+817,"""Team Stronach für Kärnten""",09.10.2012
+818,"""Team Stronach für Niederösterreich""",12.10.2012
+819,"""Team Stronach für Oberösterreich""",06.12.2012
+820,"""Team Stronach für Österreich"" (Kurzbezeichnung : ""Team Stronach"")",25.09.2012
+821,"""Team Stronach für Salzburg""",09.11.2012
+822,"""Team Stronach für Steiermark""",05.12.2012
+823,"""Team Stronach für Tirol""",06.11.2012
+824,"""Team Stronach für Vorarlberg""",03.12.2012
+825,"""Team Stronach für Wien""",28.01.2013
+826,"""Teuflische Aktion"" (T.A.)",14.10.1983
+827,"""Tiroler Patrioten LISTE TIROL"" - Überparteiische Plattform für Tiroler Politik - ",07.07.2007
+828,"""Trauner Unabhängige"", kurz ""TU""",02.07.2009
+829,"""Trotzkistische Gruppe Österreichs (Für den Wiederaufbau der IV. Internationale)""",18.04.1986
+830,"""U.F.I. Union zur Förderung heimatlicher Interessen""",06.12.1979
+831,"""Überparteiliche Burgenlandliste""",27.04.1987
+832,"""Überparteiliche Bürgerinitiative""",04.01.1999
+833,"""Überparteiliche Bürgerliste""",27.04.1987
+834,"""Umweltforum Wolkersdorf""",14.04.1992
+835,"""Umweltliste Gerasdorf"" (ULI)",20.06.1990
+836,"""Umweltschutzpartei (Grüne)""",15.02.1988
+837,"""Unabhängige Bürgerinitiative 'Rettet Österreich'""",30.07.2008
+838,"""UNABHÄNGIGE BÜRGERLISTE POTTENDORF""",14.07.1994
+839,"""Unabhängige Dorfliste Radfeld"" (U-D-R)",04.07.1991
+840,"""Unabhängige Gemeinderatsfraktion ARBEITSKREIS MILS""",19.07.1990
+841,"""Unabhängige Gemeinderatsfraktion DORFLISTE für ein lebenswertes NATTERS""",21.12.1990
+842,"""Unabhängige Kulturoffensive"", Abkürzung ""UKO""",11.01.1983
+843,"""UNABHÄNGIGE LISTE DER GEMEINDE WIENERWALD""",14.09.1990
+844,"""Unabhängige Liste Hohenems"", kurz ""ULH""",17.04.1996
+845,"""Unabhängige Liste liberaler Studierender"", Kurzbezeichnung ""ULLST""",14.11.1994
+846,"""Unabhängige Partei für Fortschritt und Fremdenverkehr (Partei für volksnahe Information, Heimatpflege und Förderung ",30.09.1987
+847,"""Unabhängige Seniorenpartei Österreichs"", kurz ""USenPÖ""",02.04.1999
+848,"""Unabhängige VOLKSPARTEI"" (UVP) - Erste österreichische Partei für alle -",28.06.1982
+849,"""UngüLtiG"" (Union nicht genug überdachten Lächelns trotz innerer Genialität)",01.10.1986
+850,"""UNION 1989""",24.05.1989
+851,"""UNION 1990""",24.05.1989
+852,"""UNION 1991""",24.05.1989
+853,"""UNION 1992""",24.05.1989
+854,"""UNION 1993""",24.05.1989
+855,"""UNION 1994""",24.05.1989
+856,"""UNION 1995""",24.05.1989
+857,"""UNION 1996""",24.05.1989
+858,"""UNION 1997""",24.05.1989
+859,"""UNION 1998""",24.05.1989
+860,"""Union für objektive Information"" (UFOI)",20.11.1986
+861,"""Union zur Förderung bürgerlicher Meinungsäußerung""",05.12.1984
+862,"""Union zur Förderung des Vereinsgeschehens und der Information der Gemeindebürger""",27.12.1984
+863,"""Union zur Verbreitung von Information"" (UzVvI)",24.09.1986
+864,"""UPÖ - Die Partei für uns Österreicher""",18.01.2002
+865,"""VAU-HEUTE""",06.12.2000
+866,"""Vegetarisch-Egalitäres Bündnis"", Kurzbezeichnung ""Die VegetarierInnen"", Abkürzung ""VEB""",29.04.1994
+867,"""Verband der Sozialversicherten Burgenland"", Kurzbezeichnung ""VDS B""",22.10.1990
+868,"""Verband der Sozialversicherten Kärnten"", Kurzbezeichnung ""VDS K""",22.10.1990
+869,"""Verband der Sozialversicherten Niederösterreich"", Kurzbezeichnung ""VDS NÖ""",22.10.1990
+870,"""Verband der Sozialversicherten Oberösterreich"", Kurzbezeichnung ""VDS OÖ""",18.10.1990
+871,"""Verband der Sozialversicherten Salzburg"", Kurzbezeichnung ""VDS S""",22.10.1990
+872,"""Verband der Sozialversicherten Steiermark"", Kurzbezeichnung ""VDS ST""",22.10.1990
+873,"""Verband der Sozialversicherten Tirol"", Kurzbezeichnung ""VDS T""",22.10.1990
+874,"""Verband der Sozialversicherten Vorarlberg"", Kurzbezeichnung ""VDS V""",22.10.1990
+875,"""Verband der Sozialversicherten Wien"", Kurzbezeichnung ""VDS W""",22.10.1990
+876,"""Verband der Sozialversicherten"" (VDS)",26.06.1990
+877,"""VERBAND der UMWELTSCHÜTZER - V.d.U."" (""AKTION GRÜNES LEBEN"")",17.01.1979
+878,"""Verein christlicher und demokratischer Studenten"" (VCDS)",14.04.1987
+879,"""Vereinigte Grüne Alternative""",27.04.1987
+880,"""Vereinigte Grüne Burgenlandliste (GRÜNE)""",27.04.1987
+881,"""Vereinigte Linke"" (VL)",16.10.1995
+882,"""VEREINIGTE ÖSTERREICHISCHE GRÜN-ALTERNATIVE (VÖGA), LANDESVERBAND WIEN"", Abkürzung ""VÖGA-",11.03.1986
+883,"""VEREINIGTE ÖSTERREICHISCHE GRÜN-ALTERNATIVE LANDESVERBAND KÄRNTEN"", Abkürzung ""VÖGA-Kärnten""",07.11.1986
+884,"""VEREINIGTE ÖSTERREICHISCHE GRÜN-ALTERNATIVE"", Abkürzung ""VÖGA""",11.03.1986
+885,"""VEREINIGTE ÖSTERREICHISCHE GRÜNE"", Abkürzung ""VÖG""",17.03.1986
+886,"""VEREINIGTE ÖSTERREICHISCHE GRÜNE, LANDESVERBAND WIEN"", Abkürzung ""VÖG-Wien""",17.03.1986
+887,"""VEREINIGUNG DER EU-GEGNER ÖSTERREICHS""",14.06.1994
+888,"""Vereinigung liberaldemokratisches Österreich"", kurz ""VLdO""",03.08.2006
+889,"""Vereinigung liberaldemokratisches Österreich"", kurz ""VLO 2000""",12.03.2001
+890,"""Vereinigung Wiener Ärzte""",01.07.1991
+891,"""VEREINTE ALTERNATIVE UND GRÜNE ÖSTERREICHS (VAGÖ)""",19.11.1982
+892,"""Vereinte Grundsatztreue Ökologen (VGÖ)""",15.07.1983
+893,"""Vereinte Grundsatztreue Ökologen, Landesverband Wien"" (VGÖ-Wien)",23.04.1985
+894,"""Vereinte Grüne Alternative""",27.04.1987
+895,"""Vereinte Grüne Burgenlandliste (GRÜNE)""",27.04.1987
+896,"""VEREINTE GRÜNE BÜRGERLISTE (VGB), LANDESVERBAND WIEN"", Abkürzung ""VGB-Wien""",23.03.1987
+897,"""VEREINTE GRÜNE BÜRGERLISTE"", Abkürzung ""VGB""",23.03.1987
+898,"""Vereinte Grüne Österreichs - Landesgruppe Kärnten"", abgekürzt ""VGÖ-Kärnten""",31.01.1984
+899,"""Vereinte Grüne Österreichs - Landesverband Burgenland"", abgekürzt ""VGÖ-Burgenland""",31.01.1984
+900,"""VEREINTE GRÜNE ÖSTERREICHS - Landesverband Steiermark"", Kurzbezeichnung ""VGÖ-Stmk.""",06.03.1987
+901,"""Vereinte Grüne Österreichs - Liste Tollmann"", abgekürzt ""VGÖ - Liste Tollmann""",08.02.1983
+902,"""Vereinte Grüne Österreichs"", abgekürzt ""VGÖ""",09.03.1982
+903,"""Vereinte Grüne Österreichs/Landesverband Oberösterreich"" (VGOÖ)",13.01.1984
+904,"""Vereinte Grüne Österreichs/Landesverband Vorarlberg"", abgekürzt ""VGÖ-Vorarlberg""",09.12.1985
+905,"""Vereinte Grüne Österreichs-Landesgruppe Tirol (VGÖ-Tirol)""",02.11.1989
+906,"""VEREINTE GRÜNE ÖSTERREICHS-Landesverband Salzburg"" (Kurzbezeichnung: VGÖ/SBG.)",18.01.1984
+907,"""VEREINTE GRÜNE ÖSTERREICHS-Landesverband Steiermark"", Kurzbezeichnung ""VGÖ-Stmk""",06.06.1991
+908,"""VEREINTE GRÜNE ÖSTERREICHS-Stadtgruppe-GRAZ"", Kurzbezeichnung ""VGÖ-GRAZ""",19.04.1991
+909,"""VEREINTE GRÜNE UND ALTERNATIVE ÖSTERREICHS (VGAÖ)""",19.11.1982
+910,"""VEREINTE GRÜNE"", abgekürzt ""VGR""",02.05.1983
+911,"""Vereinte Österreichische Pensionisten"", Kurzbezeichnung ""V-Ö-P""",21.08.1989
+912,"""Verkehrs- und Umweltforum Wolkersdorf""",12.03.1991
+913,"""Vernünftig-Soziale-Volkspartei Österreichs"", abgekürzt ""VSVPÖ""",23.08.1988
+914,"""Villacher Liste Thaler - Für Villach""",11.04.1991
+915,"""Violette Partei Österreichs (VPÖ)""",24.07.2006
+916,"""Visionär Integrale Partei""",16.03.2006
+917,"""VOKSSOZIALISTISCHE FREIHEITS-BEWEGUNG (VFB)""",17.09.1981
+918,"""Völkisch-Sozialer Aufbruch Europas"" V.S.A.E.",11.11.1986
+919,"""Volksbewegung""",11.12.1981
+920,"""VOLKSPARLAMENT""",21.04.1995
+921,"""VOLKSPOLITIKER""",28.12.1990
+922,"""VOLKSPOLITISCHE BEWEGUNG"" (VPB)",28.12.1990
+923,"""VOLKSPOLITISCHE PARTEI ÖSTERREICHS"" (VPÖ)",28.12.1990
+924,"""Volksrepublikaner""",17.04.1990
+925,"""Volkssozialisten Österreichs"", abgekürzt ""VS"" bzw ""VS-Ö",22.03.1978
+926,"""VOLKSSOZIALISTISCHE BEWEGUNG"", abgekürzt ""VSB""",16.05.1979
+927,"""Volkssozialistische Partei - VSP""",06.02.1976
+928,"""Volkstreue Grüne Bewegung"", abgekürzt ""VGB""",17.01.1985
+929,"""VOLKSUNION / Wahlpartei der Unabhängigen / Grüne Plattform""",21.12.1981
+930,"""Vorarlberger Freiheitliche - FPÖ""",15.04.1977
+931,"""Vorarlberger Kulturunion"", Abkürzung ""VKU""",29.11.1977
+932,"""Vorarlbergpartei""",11.04.1994
+933,"""vorwärts tirol""",16.01.2013
+934,"""VOX umwelt media - Initiative für brauchbare Umweltinformation""",31.07.1992
+935,"""Wahlgemeinschaft für Bürgerinitiativen und Umweltschutz (WBU) - Grüne Liste""",18.02.1980
+936,"""Wahlpartei der Unabhängigen/Die Grüne Union""",28.12.1979
+937,"""WAHLPLATTFORM DER GRAUEN ÖSTERREICHS (WGÖ)""",26.07.1990
+938,"""Waldviertelpartei"", Abkürzung ""WAP""",19.08.1992
+939,"""Waldviertler Heimatliste"", Abkürzung ""WHL""",19.08.1992
+940,"""WEEED - das mögliche Österreich""",21.12.2012
+941,"""Weiße"" Bewegung überparteilicher Bürgerinitiativen",21.06.1994
+942,"""Welser Alternative Grünliste (WAGL)""",21.11.1983
+943,"""Welser Alternative Liste (WAL)""",21.11.1983
+944,"""Westösterreichische Ortsbild- und Landschaftsgestaltungspartei"" (WOP)",04.10.1978
+945,"""Wiener Forum"", in Abkürzung: ""WiF""",18.05.2005
+946,"""Wiener Gesellschaft für Touristeninformation"", Kurzbezeichnung ""WGT""",21.08.1989
+947,"""Wiener Landespartei der Österreichischen Volkspartei"", kurz ""Wiener ÖVP""",29.06.2007
+948,"""Wir Burgenländer""",26.07.2006
+949,"""WIR FÜR FLORIDSDORF"" (WIFF)",27.07.2010
+950,"""Wir im Ersten - Die Stimme der BürgerInnen""",13.11.2009
+951,"""Wir im Siebten - Die Stimme der BürgerInnen""",12.04.2012
+952,"""Wir in Österreich - Die Stimme der BürgerInnen""",25.10.2011
+953,"""Wir in Wien - Die Stimme der BürgerInnen""",25.10.2011
+954,"""Wir Kärntner""",26.07.2006
+955,"""Wir Niederösterreicher""",26.07.2006
+956,"""Wir Oberösterreicher""",26.07.2006
+957,"""Wir Österreicher""",26.07.2006
+958,"""Wir Salzburger""",26.07.2006
+959,"""Wir Steirer""",26.07.2006
+960,"""Wir Tiroler""",26.07.2006
+961,"""Wir Vorarlberger""",26.07.2006
+962,"""Wir Wiener""",26.07.2006
+963,"""WIR WIR-Gruppen Wende zum Inneren Reichtum""",28.07.1994
+964,"""WIR""",10.07.2008
+965,"""WIR-GEMEINSAM""",20.10.2009
+966,"""Wirtschaftssozialistische Unternehmerpartei""",05.04.2002
+967,"""WPÖ (Weiße Partei Österreichs)""",14.12.2011
+968,"""WUI - Die Grünen"", Kurzbezeichnung ""WUI""",07.04.1993
+969,"""www.frustig.at"", Kurzbezeichnung ""Frust""",02.11.2010
+970,"""Xenopankratische Partei Österreichs - XPÖ""",13.05.2004
+971,"""Zeitgeist-Global-Österreich"", kurz ""ZPÖ""",01.02.2013
+972,"""Zentrumpartei Austria"", Abkürzung: ""ZPA"", Kurzbezeichnung: ""die Zentristen""",31.08.2005
+973,"""ZUSAMMEN""",27.04.1990
